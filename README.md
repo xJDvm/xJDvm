@@ -6,7 +6,7 @@
   
   🎓 I'm a student passionate about backend development and software engineering.
   
-  💻 I love working on projects using Java, JavaScript, C#, HTML, CSS, MongoDB, and Python.
+  💻 I love working on projects using Java, JavaScript, C#, HTML, CSS, PostgreSQL, and Python.
   
   🚀 I'm dedicated to staying up-to-date with the latest technologies and trends in the tech world.
   
