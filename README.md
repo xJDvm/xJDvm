@@ -4,7 +4,7 @@
   <h1>👋 Hello, I'm Juan Diego Valdés!</h1>
 </div>
   
-  🎓 I'm a Junior Developer passionate about backend development and software engineering.
+  🎓 I'm a Software Developer passionate about backend development and software engineering.
   
   💻 I love working on projects using Typescript, JavaScript, C#, Node, Python, AWS and SQL.
   
