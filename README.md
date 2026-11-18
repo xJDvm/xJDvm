@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,60:9B1030,100:E0202F&height=190&section=header&text=Juan%20Diego%20Vald%C3%A9s&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-stack%20engineer%20%C2%B7%20Product%20builder&descAlignY=58&descSize=18" alt="Juan Diego Valdés — Full-stack engineer, product builder" width="100%" />
 
-<a href="https://xjdvm.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=E0202F&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Juan+Diego+%F0%9F%91%8B;I+turn+ideas+into+products+that+work;4+years+coding+%C2%B7+2.5+working+with+AI;Open+to+freelance+and+full-time+roles" alt="Typing animation" /></a>
+<a href="https://xjdvm.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=E0202F&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Juan+Diego+%F0%9F%91%8B;I+turn+ideas+into+products+that+work;4+years+building+software;Open+to+freelance+and+full-time+roles" alt="Typing animation" /></a>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 I'm a full-stack engineer based in **Valencia, Venezuela**. I like taking an idea from a blank page to something real people use, and I care as much about *what* we build and *why* as about how.
 
-I've been **coding for 4 years** and **working with AI for 2.5**. Along the way I've worked on products for retail and healthcare, built tools for sales and support teams, and shipped side projects of my own.
+I have **4 years of experience building software**. Along the way I've worked on products for retail and healthcare, built tools for sales and support teams, and shipped side projects of my own.
 
 > 🏆 **Winner of the Nexus Challenge (2026)**, a competition organized by Intelix and AWS Kiro to build an end-to-end sales bot, cart and checkout flow included.
 
